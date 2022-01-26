@@ -4,3 +4,4 @@ git pull --rebase
 => (to get the latest changes from central repository to ur local. Lets say there are 3 developers and they made changes to a file and they pushed it to central repo. So when you want to push your file to central repo, u will face a conflict. So if u use “git pull” the changes made by the other developer will get into ur local. But if you want to keep ur changes and get the latest commits(from other devs), we have to use 
 “git pull --rebase”).
 
+Sample line 1
